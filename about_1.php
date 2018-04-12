@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 $animals_continents = [
     "Eurasia" => ['rangifer tarandus', 'elephantidae'],
     "North America" => ['vulpes lagopus', 'lemmini'],
-    "South America" => ['puma concolor', 'vultur gryphus'],
+    "South America" => ['puma concolor', 'phoenicopterus'],
     "Africa" => ['cercopithecinae', 'panthera leo'],
     "Australia" => ['macropodidae', 'phascolarctos cinereus'],
     "Antarctica" => ['aptenodytes forsteri', 'phocidae',]
